@@ -1,7 +1,7 @@
 💫 About Me:
-Sophomore in Highschool 🏫
-Currently mastering Javascript </>
-Front-End Web Developer 💻
+Sophomore in Highschool 🏫<br>
+Currently mastering Javascript </><br>
+Front-End Web Developer 💻<br>
 Flipper Zero Enthusiast 📟
 
 
