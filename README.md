@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me:<br>
 Sophomore in Highschool 🏫<br>
 Currently mastering Javascript </><br>
 Front-End Web Developer 💻<br>
